@@ -42,8 +42,8 @@
 - ✅ **Alt+Shift** → смяна на езика  
 - ✅ **Meta+Space** → търсачка (KRunner)
 
-</details>
 ---
+</details>
 
 ## 2. Инсталиране на VSCodium
 
